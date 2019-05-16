@@ -1,0 +1,10 @@
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\bin\Debug\LSystemsGoMemoization.exe.config
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\bin\Debug\LSystemsGoMemoization.exe
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\bin\Debug\LSystemsGoMemoization.pdb
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\obj\Debug\LSystemsGoMemoization.csprojAssemblyReference.cache
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\obj\Debug\LSystemsGoMemoization.Form1.resources
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\obj\Debug\LSystemsGoMemoization.Properties.Resources.resources
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\obj\Debug\LSystemsGoMemoization.csproj.GenerateResource.cache
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\obj\Debug\LSystemsGoMemoization.csproj.CoreCompileInputs.cache
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\obj\Debug\LSystemsGoMemoization.exe
+C:\Users\Logan\Desktop\LSystemsGoMemoization\LSystemsGoMemoization\obj\Debug\LSystemsGoMemoization.pdb
